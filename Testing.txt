@@ -1,7 +1,11 @@
 2-Jul, 2018
-Git on ThinkPad
+Notepad on ThinkPad
 Just want to test out how this distributed version control system works.
 
 2-Jul, 2018
 GitHub on ThinkPad
 What if I edit this text document on GitHub?
+
+2-Jul, 2018
+Notepad on ThinkPad
+I can use 'git pull' to change the local file, and then commit. Use 'git push origin master' to push the repo onto GitHub.
