@@ -1,3 +1,7 @@
 2-Jul, 2018
-ThinkPad
+Git on ThinkPad
 Just want to test out how this distributed version control system works.
+
+2-Jul, 2018
+GitHub on ThinkPad
+What if I edit this text document on GitHub?
