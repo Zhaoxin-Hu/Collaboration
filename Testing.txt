@@ -13,3 +13,7 @@ I can use 'git pull' to change the local file, and then commit. Use 'git push or
 2-Jul, 2018
 Notepad on AELab Desktop
 Now the final step. I also cloned the repo onto the desktop. I will commit from here as well, and see if I can pull the changes onto my ThinkPad.
+
+2-Jul, 2018
+Notepad on ThinkPad
+Cool! After a pull, I saw the changes made on AELab Desktop.
