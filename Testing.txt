@@ -9,3 +9,7 @@ What if I edit this text document on GitHub?
 2-Jul, 2018
 Notepad on ThinkPad
 I can use 'git pull' to change the local file, and then commit. Use 'git push origin master' to push the repo onto GitHub.
+
+2-Jul, 2018
+Notepad on AELab Desktop
+Now the final step. I also cloned the repo onto the desktop. I will commit from here as well, and see if I can pull the changes onto my ThinkPad.
