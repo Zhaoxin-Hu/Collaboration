@@ -17,3 +17,7 @@ Now the final step. I also cloned the repo onto the desktop. I will commit from 
 2-Jul, 2018
 Notepad on ThinkPad
 Cool! After a pull, I saw the changes made on AELab Desktop.
+
+3-Jul, 2018
+CodeHub on iPad
+Now I can even edit the file on my iPad!
